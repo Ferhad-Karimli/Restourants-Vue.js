@@ -1,0 +1,61 @@
+{
+    "restaurant": [
+        {
+            "id": 1,
+            "name": "Restaurant 1",
+            "image": "https://source.unsplash.com/Ciqxn7FE4vE/900x500",
+            "products": [
+                {
+                    "id" : 1,
+                    "foodName": "Plov",
+                    "img": "https://source.unsplash.com/zmm--Wl0mrU/900x500",
+                    "maxQuantity": "3"
+                },
+                {
+                    "id" : 2,
+                    "foodName": "Kebab",
+                    "img": "https://source.unsplash.com/uIiMSu88RZQ/900x500",
+                    "maxQuantity": "6"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Restaurant 2",
+            "image": "https://source.unsplash.com/nmpW_WwwVSc/900x500",
+            "products": [
+                {
+                    "id" : 3,
+                    "foodName": "Halva",
+                    "img": "https://source.unsplash.com/DFNE7_6MCWY/900x500",
+                    "maxQuantity": "3"
+                },
+                {
+                    "id" : 4,
+                    "foodName": "Kufta Bozbash",
+                    "img": "https://previews.123rf.com/images/nort/nort1711/nort171100002/90451759-kufta-bozbash-azerbaijani-national-cuisine.jpg",
+                    "maxQuantity": "6"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Restaurant 3",
+            "image": "https://source.unsplash.com/nmpW_WwwVSc/900x500",
+            "products": [
+                {
+                    "id" : 5,
+                    "foodName": "Roast Chicken",
+                    "img": "https://www.simplyrecipes.com/thmb/V0mntPNLvg6Aev8Qd5f0TV7lOvM=/1600x1200/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2007__04__honey-glazed-roast-chicken-horiz-a-1800-2057270028084ff2bdb54fcb0f2d3227.jpg",
+                    "maxQuantity": "3"
+                },
+                {
+                    "id" : 6,
+                    "foodName": "Dolma",
+                    "img": "https://www.unicornsinthekitchen.com/wp-content/uploads/2019/08/Dolma-feature-image-500x500.jpg",
+                    "maxQuantity": "6"
+                }
+            ]
+        }
+    ]
+}
